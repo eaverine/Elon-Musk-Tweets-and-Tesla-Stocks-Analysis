@@ -12,7 +12,7 @@ and the effect on their company's stocks. In this case, we're using Elon Musk an
 > The research covers 
 > - building API data retrieval bots, 
 > - using Natural Language Processing (NLP) techniques to clean and process the tweets 
-> - NLP libraries and bag of words to analyze the sentiment of each tweet
+> - using NLP libraries and bag of words to analyze the sentiment of each tweet
 > - analysis and visualization of available data   
 
 For the analysis to be more reasonable in checking the effect of tweets against stocks, the stocks data used were for exactly 10 minutes after Elon made the 
